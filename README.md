@@ -25,7 +25,7 @@ https://cucumber.io/docs/guides/browser-automation/
 4. create components according to acceptance criteria
 5. turn acceptance criteria points into test scenarios (this is where Selenium + Cucumber comes into play)
 6. don't dwell on Vue/design too much!!! Plan your time so you can manage to try out Selenium and Cucumber within this week
-7. something's unclear? feeling stuck? don't hesitate to contact me (le Adele)
+7. something's unclear? feeling stuck? don't hesitate to ask
 8. create a Trello board to keep your backlog
 9. create your own Git repo to publish code for others to review
 
