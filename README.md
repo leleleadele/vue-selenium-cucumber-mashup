@@ -29,11 +29,13 @@ https://cucumber.io/docs/guides/browser-automation/
 
 ### acceptance criteria
 
-The component consists of tabs and their content. Each tab's content consists of an image, a heading and a description.
-* images must have alt texts
-* use H2 for content headings
-* the amount of tabs is NOT hardcoded, i.e., depends on what / how much content is given
-* only one tab can be active at a time
-* once a tab is clicked, the clicked tab becomes active. The previously clicked tab therefore becomes inactive
-** active tabs are black
-** inactive tabs are grey
+The component consists of a H1 heading, several tabs and their content underneath. Each tab's content consists of a H2 heading and a description. Only content of the selected/active tab is displayed.
+* layout should follow [this design sketch](https://www.figma.com/file/fxm7inGGcxUFgv0sDAAKMI/Untitled?node-id=0%3A1)
+* design has a mobile(0...768px) and a desktop(768px...) version
+* use proper html tags (H! & H2, button, etc.) for elements on the page
+* tabs are interactive
+  * only one tab can be active at a time
+  * first tab is active per default when page is loaded
+  * once a tab is clicked, the clicked tab becomes active. The previously active tab therefore becomes inactive
+  * active tabs are white
+  * inactive tabs are pink
