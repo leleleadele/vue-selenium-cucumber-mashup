@@ -35,6 +35,9 @@ The component consists of a H1 heading, several tabs and their content underneat
 * layout should follow [this design sketch](https://www.figma.com/file/fxm7inGGcxUFgv0sDAAKMI/Untitled?node-id=0%3A1)
 * use text content provided from the [JSON file inside this repo](https://github.com/leleleadele/vue-selenium-cucumber-mashup/blob/main/content.json)
 * design has a mobile(0...768px) and a desktop(768px...) version
+  * tab content text is left-aligned on mobile, but centered on desktop
+  * font sizes differ between desktop & mobile breakpoints (see design sketch)
+  * on desktop, tab description (heading + paragraph) has a max width of 600px
 * the page should always start with an H1 element
 * the tabs are buttons and use the <button> tags
 * the tab content always starts with a H2 heading and is followed by a paragraph
