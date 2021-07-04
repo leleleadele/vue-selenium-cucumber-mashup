@@ -3,8 +3,7 @@
 
 wsup.
 
-this one's to you who want to practice selenium webdriver with cucumbers.
-if you've never touched Selenium & Cucumber before, take a look at their official documentation. They have step-by-step guides to create a very basic setup for some simple testing - follow that guide before you dive into this task to save yourself from unnecessary headache.
+if you've never touched Selenium & Cucumber before, take a look at their official documentation. They have step-by-step guides to create a very basic setup for some simple testing - try that before you dive into this task to save yourself from unnecessary headache.
 
 first off follow this lovely guide to make sure you have cucumber working properly in your project:
 
@@ -23,7 +22,7 @@ https://cucumber.io/docs/guides/browser-automation/
 2. style stuff using Sass. we're sassy
 3. follow BEM standards for class naming
 4. create components according to acceptance criteria
-5. create automated tests according to acceptance criteria
+5. turn acceptance criteria points into test scenarios (this is where Selenium + Cucumber comes into play)
 6. don't dwell on Vue/design too much!!! Plan your time so you can manage to try out Selenium and Cucumber within this week
 7. something's unclear? feeling stuck? don't hesitate to contact me (le Adele)
 
@@ -31,8 +30,11 @@ https://cucumber.io/docs/guides/browser-automation/
 
 The component consists of a H1 heading, several tabs and their content underneath. Each tab's content consists of a H2 heading and a description. Only content of the selected/active tab is displayed.
 * layout should follow [this design sketch](https://www.figma.com/file/fxm7inGGcxUFgv0sDAAKMI/Untitled?node-id=0%3A1)
+* use text content provided from the JSON file inside this repo
 * design has a mobile(0...768px) and a desktop(768px...) version
-* use proper html tags (H! & H2, button, etc.) for elements on the page
+* the page should always start with an H1 element
+* the tabs are buttons and use the <button> tags
+* the tab content always starts with a H2 heading and is followed by a paragraph
 * tabs are interactive
   * only one tab can be active at a time
   * first tab is active per default when page is loaded
