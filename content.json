@@ -1,0 +1,20 @@
+{
+    "mainHeading": "Lorem Ipsum Alternatives",
+    "tabs": [
+      {
+        "tabName": "Option One",
+        "tabHeading": "Pirate Ipsum",
+        "tabDescription": "The best Lorem Ipsum Generator in all the sea! Heave this scurvy copyfiller fer yar next adventure and cajol yar clients into walking the plank with ev'ry layout! Configure above, then get yer pirate ipsum...own the high seas, arg!",
+      },
+      {
+        "tabName": "Option Two",
+        "tabHeading": "Cheese Ipsum",
+        "tabDescription": "Cheesecake stilton monterey jack. Rubber cheese cheese strings cow ricotta cauliflower cheese say cheese emmental jarlsberg. Manchego cheesy grin airedale macaroni cheese lancashire cheese and wine the big cheese pecorino. Fromage babybel cream cheese camembert de normandie everyone loves pepper jack st. agur blue cheese manchego. Fondue.",
+      },
+      {
+        "tabName": "Option Three",
+        "tabHeading": "Cupcake Ipsum",
+        "tabDescription": "Jujubes pastry fruitcake soufflé cotton candy jelly beans danish cheesecake soufflé. Chocolate gingerbread lemon drops tart lollipop candy canes lollipop. Tiramisu powder candy canes chupa chups oat cake chocolate cake chupa chups brownie. Jelly-o powder cake cheesecake cotton candy liquorice marzipan chocolate powder. ",
+      },
+    ]
+}
