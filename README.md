@@ -1,5 +1,6 @@
-# vue-selenium-cucumber-mashup
-### Training task to practice using Selenium WebDriver with Cucumber for Vue component testing
+# vue-selenium-cucumber-mashup :cucumber: :green_heart: :cucumber: :green_heart:
+### training task to practice Selenium WebDriver & Cucumber & VueJS
+
 
 wsup.
 
@@ -16,7 +17,7 @@ https://cucumber.io/docs/guides/browser-automation/
 
 ## task description
 
-### general rules
+### :cucumber: general rules
 
 1. let's use VueJS + NodeJS + Webpack to get the foundations of the project rolling
 2. style stuff using Sass. we're sassy
@@ -25,8 +26,10 @@ https://cucumber.io/docs/guides/browser-automation/
 5. turn acceptance criteria points into test scenarios (this is where Selenium + Cucumber comes into play)
 6. don't dwell on Vue/design too much!!! Plan your time so you can manage to try out Selenium and Cucumber within this week
 7. something's unclear? feeling stuck? don't hesitate to contact me (le Adele)
+8. create a Trello board to keep your backlog
+9. create your own Git repo to publish code for others to review
 
-### acceptance criteria
+### :cucumber: acceptance criteria
 
 The component consists of a H1 heading, several tabs and their content underneath. Each tab's content consists of a H2 heading and a description. Only content of the selected/active tab is displayed.
 * layout should follow [this design sketch](https://www.figma.com/file/fxm7inGGcxUFgv0sDAAKMI/Untitled?node-id=0%3A1)
