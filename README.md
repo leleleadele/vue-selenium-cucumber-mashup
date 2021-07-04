@@ -4,7 +4,7 @@
 
 wsup.
 
-if you've never touched Selenium & Cucumber before, take a look at their official documentation. They have step-by-step guides to create a very basic setup for some simple testing - try that before you dive into this task to save yourself from unnecessary headache.
+for starters - if you've never touched Selenium & Cucumber before, take a look at their official documentation. they have step-by-step guides to create a very basic setup for some simple testing - try that before you dive into this task to save yourself from unnecessary headache.
 
 first off follow this lovely guide to make sure you have cucumber working properly in your project:
 
@@ -14,6 +14,8 @@ once that is done, continue by incorporating Selenium WebDriver into the mix. fo
 
 https://www.selenium.dev/documentation/en/
 https://cucumber.io/docs/guides/browser-automation/
+
+now if you feel ready, proceed with the actual task
 
 ## task description
 
