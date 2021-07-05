@@ -41,7 +41,7 @@ The component consists of a H1 heading, several tabs and their content underneat
   * font sizes differ between desktop & mobile breakpoints (see design sketch)
   * on desktop, tab description (heading + paragraph) has a max width of 600px
 * the page should always start with an H1 element
-* the tabs are buttons and use the <button> tags
+* the tabs are buttons and use the `<button>` tags
 * the tab content always starts with a H2 heading and is followed by a paragraph
 * tabs are interactive
   * only one tab can be active at a time
